@@ -1,0 +1,236 @@
+a {
+    color: #A45D5D;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    color: #8f8f8f;
+}
+h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 900;
+        font-size: 3.5rem;
+        line-height: 1.5;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+hr {
+    border: dotted gray 0.5em;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto 100px auto;
+    background-color: transparent;
+}
+th {
+    text-align: end;
+}
+
+/* -------- Class Select --------- */
+
+.act2 {
+    background-color: #FFD56B;
+}
+.act3 {
+    background-color: #939B62;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+.download-btn {
+    margin: 5% 3% 5% 0%;
+}
+.disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+.feature-box {
+  padding: 5%;  
+}
+.icon {
+    color: #ef8172;
+    width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+}
+.icon:hover {
+    color: #ff4c68;
+}
+.navbar {
+    padding-bottom: 4.5rem;
+}
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.navbar {
+    margin: auto 20px;
+}
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.pricing-col {
+    padding: 3% 2%;
+}
+.pro {
+    text-decoration: underline;
+}
+.skill-row {
+    width: 40%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    position: relative;
+
+}
+.title-img {
+    width: 90%;
+    height: auto;
+    position: relative;
+    left: 20%;
+   /* transform: rotate(25deg); */
+}
+.testimonials-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+/* -------- ID Select --------- */
+
+#title {
+    background-color: #FF7B54;
+    color: black;
+    padding-top: 3%;
+}
+#activity {
+    text-align: center;
+    background-color: #FFB26B;
+    color: #FFF;
+    padding-top: 3%;
+}
+#features {
+    text-align: center;
+    padding: 2% 12%;
+    padding-top: 3%;
+}
+#press {
+    text-align: center;
+    background-color: #FFC069;
+    color: #FFF;
+
+}
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+/*
+.profile-info1 {
+    width: 25%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    display: inline-block;
+    position:relative;
+    right: 11rem;
+}
+.profile-info2 {
+    width: 25%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    position: relative;
+    right: 11rem;
+    bottom: 10rem;
+}
+.profile-info3 {
+    width: 25%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    display: inline-block;
+    position:relative;
+    left: 11rem;
+    bottom: 51.1rem;
+} */
+/* Profile Zone */
+#profile {
+    text-align: center;
+    background-color: #EFEFEF;
+}
+.profile {
+    padding: 3%;
+}
+.profile-img {
+    position: absolute;
+    width: 90%;
+    right: 100%;
+}
+.profile2-img {
+    position: absolute;
+    width: 6.25em ;
+    left: 120%;
+    padding-top: 7%;
+}
+.profile3-img {
+    position: absolute;
+    width: 10em ;
+    left: 100%;
+    padding-top: 10%;
+}
+.profile4-img {
+    position: absolute;
+    width: 10em ;
+    left: 120%;
+    padding-top: 10%;
+}
+.profile5-img {
+    position: absolute;
+    width: 10em ;
+    left: 100%;
+    padding-top: 30%;
+}
+/* */
+
+/* Certificate Zone */
+#certificate {
+    text-align: center;
+    background-color: #EFEFEF;
+    padding-top: 3%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    display: inline-block;
+}
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
